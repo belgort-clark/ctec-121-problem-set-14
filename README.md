@@ -12,8 +12,8 @@ Problem 1 is worth 30 points.
 
 Problem 2 is worth 70 points.
 
-- [Problem 1 - Retail Therapy](https://github.com/belgort-clark/ctec-121-problem-set-14/tree/master/problem04) (worth 30 points)
-- [Problem 2 - Bot Army](https://github.com/belgort-clark/ctec-121-problem-set-14/tree/master/problem05) (worth 70 points)
+- [Problem 1 - Retail Therapy](https://github.com/belgort-clark/ctec-121-problem-set-14/tree/master/problem01) (worth 30 points)
+- [Problem 2 - Bot Army](https://github.com/belgort-clark/ctec-121-problem-set-14/tree/master/problem02) (worth 70 points)
 
 ## Instructions
 
